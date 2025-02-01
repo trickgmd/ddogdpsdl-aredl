@@ -12,14 +12,14 @@
 	"creators": [],
 	"verifier": "trickgmd",
 	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
-	"percentToQualify": 100,
+	"percentToQualify": 56,
 	"password": "No Copy",
 	"records": [
 		{
-			"user": "JustXSoos",
-			"link": "https://www.youtube.com/watch?v=a7I_8dltxlc",
+			"user": "trickgmd",
+			"link": "",
 			"percent": 100,
-			"hz": 360
+			"hz": 60
 
 		}
 	]
