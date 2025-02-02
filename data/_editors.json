@@ -14,14 +14,7 @@
             {
                 "name": "Aloaf",
                 "link": "https://youtube.com/@aloaf812"
-            },
-            {
-                "name": "",
-                "link": ""
-            },
-            {
-                "name": "",
-                "link": ""
+
             }
         ]
     },
@@ -43,18 +36,7 @@
     {
         "role": "trial",
         "members": [
-            {
-                "name": "",
-                "link": ""
-            },
-            {
-                "name": "",
-                "link": ""
-            },
-            {
-                "name": "",
-                "link": ""
-            
+
             }
         ]
     },
