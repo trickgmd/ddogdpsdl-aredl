@@ -15,11 +15,6 @@
 	"percentToQualify": 70,
 	"password": "Free Copy",
 	"records": [
-        {
-            "user": "TurboFlash",
-            "link": "https://www.youtube.com/watch?v=jVumueyD9b8",
-            "percent": 100,
-            "hz": 120,
-      }
+
   ]
 }
