@@ -15,11 +15,6 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-		{
-			"user": "Birbyn",
-			"link": "https://www.youtube.com/watch?v=5_8HDNnuesw",
-			"percent": 100,
-			"hz": 165,
-		}
+
 	]
 }
