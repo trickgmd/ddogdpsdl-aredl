@@ -14,9 +14,25 @@
 	"verification": "https://youtu.be/XtDpqhtAy6k",
 	"percentToQualify": 56,
 	"password": "Free Copy",
-		"records": [
-
-	
+	"records": [
+		{
+			"user": "Macaroni & Games",
+			"link": "https://www.youtube.com/watch?v=QLO2Sbu7OBs",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "lilcanez",
+			"link": "https://youtube.com/shorts/vmSLfb9Bd5Y?si=WjDn1VN3W74Wkwr7",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "games",
+			"link": "https://www.youtube.com/watch?v=zJuh_sO8JZ8",
+			"percent": 100,
+			"hz": 144
+		}
 	]
 }
 
