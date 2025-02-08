@@ -14,8 +14,18 @@
 	"verification": "https://youtu.be/17sIzWiBq1g",
 	"percentToQualify": 100,
 	"password": "Not Copyable",
-		"records": [
-
-	
+	"records": [
+		{
+			"user": "Void",
+			"link": "https://youtu.be/0X2B5BDNP58",
+			"percent": 100,
+			"hz": 60,
+		},
+		{
+					
+			"user": "games",
+			"link": "https://youtu.be/TWmh3Q-ZVzw",
+			"percent": 100,
+			"hz": 144,
 	]
 }
